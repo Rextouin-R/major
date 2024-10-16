@@ -26,9 +26,9 @@ ls
 ```
 python -m pip insall - r requirements.txt
 ```
-## Edit data.txt lalu isikan query_id/user_id kalian CTRL+xy 
+## Edit `queries.txt` lalu isikan `query_id/user_id` kalian CTRL+xy 
 ```
-nano data.txt 
+nano queries.txt 
 ```
 ## Run bot 
 ```

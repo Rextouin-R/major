@@ -1,4 +1,4 @@
-# MAJOR bit | via TERMUX 
+# MAJOR bot | via TERMUX 
 
 ## Moduls by Shyzg 
 ⚠️ Buka directory dan update/upgrade lebih dulu 

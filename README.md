@@ -34,4 +34,6 @@ nano data.txt
 ```
 python app.py
 ```
-## semoga berhasil
+## Selanjutnya 
+Pilih (use `queries.txt` Without aplitt) lalu enter
+## Semoga berhasil 
